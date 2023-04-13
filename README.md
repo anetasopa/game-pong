@@ -6,3 +6,5 @@
 To move the **left** paddle you have to click keys 'w' and 'z', and the **right** paddle 'u' and 'n'. 
 
 You have to move the paddles so that the ball doesn't go out of bounds 🙃
+
+##### You can also see this game at this [link](https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html).
