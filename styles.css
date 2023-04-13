@@ -1,0 +1,16 @@
+#canvas {
+  border: 1px solid black;
+  display: block;
+  margin: 0 auto;
+}
+h1,
+p {
+  text-align: center;
+}
+button {
+  width: 400px;
+  height: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
