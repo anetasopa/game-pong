@@ -3,6 +3,8 @@ function loaded() {
   var button = document.querySelector("button");
   var ctx = canvas.getContext("2d");
 
+  canvas.style = "left: 0; right: 0px; bottom: 0px; margin: 0 auto; background: white;"
+
   const MAX_POINTS = 5;
   const BALL_SPEED = 2;
   const BALL_START_X = 200;
